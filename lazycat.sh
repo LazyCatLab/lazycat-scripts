@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+
 
 # 标题部分
 show_header() {
@@ -79,3 +80,4 @@ main() {
 }
 
 main
+
